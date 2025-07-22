@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Detobias Media</title>
+    <style>
+        body
+<body>
+    <marquee behavior="scroll" direction="left" style="color: darkblue; font-size: 20px; background-color: lightgray; padding: 10px;">
+        Welcome to my personal website – created with love and code!
+    </marquee></body>
+ {
+            font-family: Arial, sans-serif;
+            background: linear-gradient(to right, #87ceeb, #f0f8ff);
+            margin: 0;
+            padding: 0;
+        }
+        .container {
+            max-width: 800px;
+            margin: 40px auto;
+            background-color: white;
+            padding: 30px;
+            box-shadow: 0 0 15px rgba(0,0,0,0.2);
+            border-radius: 10px;
+        }
+        h1, h2 {
+            color: #333;
+        }
+        .button {
+            margin-top: 20px;
+            padding: 10px 20px;
+            background-color: #005f99;
+            color: white;
+            text-decoration: none;
+            border-radius: 5px;
+            display: inline-block;
+        }
+        .button:hover {
+            background-color: #004070;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>DetobiasBio</h1>
+        <h2>Personal Details</h2>
+        <p><strong>Full Name:</strong> Otogo Tobias</p>
+        <p><strong>Date of Birth:</strong> May 3, 2001</p>
+        <p><strong>Nationality:</strong> Ugandan</p>
+        <p><strong>Phone:</strong> +256 703993574</p>
+        <p><strong>Email:</strong> otogodetobias@gmail.com</p>
+
+        <h2>Education Background</h2>
+        <ul>
+            <li>Bachelor of Information Technology – Busitema University (2021 - 2024)</li>
+            <li>Uganda Advanced Certificate of Education – Petta Community S School (2019 - 2020)</li>
+            <li>Uganda Certificate of Education – Petta Community S School (2015 - 2018)</li>
+        </ul>
+
+        <h2>Other Details</h2>
+        <p><strong>Languages:</strong> English, Luganda</p>
+        <p><strong>Hobbies:</strong> Web Design, Music, Football</p>
+        <p><strong>Skills:</strong> HTML, CSS, PHP, MySQL, WordPress</p>
+
+        <a href="about.html" class="button">About Me</a>
+    </div>
+</body>
+</html>
